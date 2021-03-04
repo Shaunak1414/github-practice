@@ -10,7 +10,7 @@ The objective here is to practice and learn some basic stuff on GitHub
 * Update branches via visual studio code. 
 * Update via git CLI 
 
-Learn more stuff on git at [https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup]
+Learn more stuff on git at (git.com)[https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup]
 
 I am now on __Visual studio code__ 
 1. Edited the update branch
